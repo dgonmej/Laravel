@@ -1,0 +1,26 @@
+.admin-body {
+	/* margin-top: 1.5em;
+  	margin-bottom: 1.5em;
+  	margin-left: 10em;
+    margin-right: 10em; */
+    width: 60vw;
+    margin: 0 auto;
+}
+
+.title-page {
+    font-family: 'Raleway', sans-serif;
+}
+
+.form-admin {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.form-admin label {
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+}
+
+thead th {
+    font-family: 'Raleway', sans-serif;
+}
